@@ -1,0 +1,10 @@
+D:\Projects\VS Repo\SimplexMethod\bin\Debug\SimplexMethod.exe.config
+D:\Projects\VS Repo\SimplexMethod\bin\Debug\SimplexMethod.exe
+D:\Projects\VS Repo\SimplexMethod\bin\Debug\SimplexMethod.pdb
+D:\Projects\VS Repo\SimplexMethod\obj\Debug\SimplexMethod.csprojAssemblyReference.cache
+D:\Projects\VS Repo\SimplexMethod\obj\Debug\SimplexMethod.Form1.resources
+D:\Projects\VS Repo\SimplexMethod\obj\Debug\SimplexMethod.Properties.Resources.resources
+D:\Projects\VS Repo\SimplexMethod\obj\Debug\SimplexMethod.csproj.GenerateResource.cache
+D:\Projects\VS Repo\SimplexMethod\obj\Debug\SimplexMethod.csproj.CoreCompileInputs.cache
+D:\Projects\VS Repo\SimplexMethod\obj\Debug\SimplexMethod.exe
+D:\Projects\VS Repo\SimplexMethod\obj\Debug\SimplexMethod.pdb
